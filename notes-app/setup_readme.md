@@ -53,13 +53,7 @@ GOOGLE_CLIENT_ID=your_google_client_id_here
 GOOGLE_CLIENT_SECRET=your_google_client_secret_here
 ```
 
-**Note:** For Gmail, you need to:
 
-1. Enable 2-factor authentication
-2. Generate an "App Password" (not your regular password)
-3. Use the app password in EMAIL_PASS
-
-For demo purposes, OTPs are logged to console instead of sending emails.
 
 #### Frontend Setup
 
